@@ -1,0 +1,60 @@
+{
+    "coursesPageTitle": "코스",
+    "profilePageTitle": "프로필",
+    "createCourseTitle": "코스 만들기",
+    "editCourseTitle": "코스 편집",
+    "createTaskTitle": "작업 만들기",
+    "editTaskTitle": "작업 편집",
+
+    "noCourses": "아직 코스가 없습니다",
+    "noTasks": "이 과정에는 아직 작업이 포함되어 있지 않습니다",
+
+    "statisticsTitle": "통계",
+    "settingsTitle": "설정",
+
+    "totalTasks": "총 작업",
+    "completedTasks": "완료된 작업",
+    "uncompletedTasks": "완료되지 않은 작업",
+
+    "nameStep": "이름",
+    "professorStep": "교수",
+    "deadlineStep": "마감일",
+    "noteStep": "참고 사항",
+    "noDeadline": "마감일 없음",
+
+    "emptyFiendError": "이름을 비울 수 없습니다",
+
+    "themeSettings": "테마",
+    "systemTheme": "시스템",
+    "lightTheme": "라이트",
+    "darkTheme": "다크",
+
+    "languageSettings": "언어",
+    "russianLanguage": "Русский язык",
+    "englishLanguage": "English",
+    "koreanLanguage": "한국어",
+
+    "taskCount": "{count, plural, =0{작업 없음} =1{{count} 작업} other{{count} 작업}}}",
+    "@taskCount": {
+        "placeholders": {
+            "count": {}
+        }
+    },
+
+    "deadline": "{date}",
+    "@deadline": {
+        "placeholders": {
+            "date": {
+                "type": "DateTime",
+                "format": "yMMMd"
+            }
+        }
+    },
+
+    "setCompleted": "완료됨",
+    "setUncompleted": "완료되지 않음",
+    "edit": "편집",
+    "remove": "삭제",
+    "next": "다음",
+    "previous": "이전"
+}

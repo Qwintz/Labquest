@@ -1,0 +1,60 @@
+{
+    "coursesPageTitle": "Courses",
+    "profilePageTitle": "Profile",
+    "createCourseTitle": "Create course",
+    "editCourseTitle": "Edit course",
+    "createTaskTitle": "Create task",
+    "editTaskTitle": "Edit task",
+
+    "noCourses": "You do not have any courses yet",
+    "noTasks": "The course does not contain any tasks yet",
+
+    "statisticsTitle": "Statistics",
+    "settingsTitle": "Settings",
+
+    "totalTasks": "Total tasks",
+    "completedTasks": "Completed tasks",
+    "uncompletedTasks": "Uncompleted tasks",
+
+    "nameStep": "Name",
+    "professorStep": "Professor",
+    "deadlineStep": "Deadline",
+    "noteStep": "Note",
+    "noDeadline": "No deadline",
+
+    "emptyFiendError": "Name cannot be empty",
+
+    "themeSettings": "Theme",
+    "systemTheme": "System",
+    "lightTheme": "Light",
+    "darkTheme": "Dark",
+
+    "languageSettings": "Language",
+    "russianLanguage": "Русский язык",
+    "englishLanguage": "English",
+    "koreanLanguage": "한국어",
+
+    "taskCount": "{count, plural, =0{No tasks} =1{{count} task} other{{count} tasks}}}",
+    "@taskCount": {
+        "placeholders": {
+            "count": {}
+        }
+    },
+
+    "deadline": "{date}",
+    "@deadline": {
+        "placeholders": {
+            "date": {
+                "type": "DateTime",
+                "format": "yMMMd"
+            }
+        }
+    },
+
+    "setCompleted": "Completed",
+    "setUncompleted": "Uncompleted",
+    "edit": "Edit",
+    "remove": "Delete",
+    "next": "Next",
+    "previous": "Prev"
+}

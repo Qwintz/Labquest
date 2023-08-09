@@ -1,0 +1,60 @@
+{
+    "coursesPageTitle": "Курсы",
+    "profilePageTitle": "Профиль",
+    "createCourseTitle": "Создание курса",
+    "editCourseTitle": "Редактирование курса",
+    "createTaskTitle": "Создание задачи",
+    "editTaskTitle": "Редактирование задачи",
+
+    "noCourses": "У вас пока нет ни одного курса",
+    "noTasks": "Курс пока не содержит задач",
+    
+    "statisticsTitle": "Статистика",
+    "settingsTitle": "Настройки",
+
+    "totalTasks": "Всего задач",
+    "completedTasks": "Завершенных задач",
+    "uncompletedTasks": "Незавершенных задач",
+
+    "nameStep": "Название",
+    "professorStep": "Преподаватель",
+    "deadlineStep": "Срок сдачи",
+    "noteStep": "Описание",
+    "noDeadline": "Без срока",
+
+    "emptyFiendError": "Название не может быть пустым",
+
+    "themeSettings": "Тема",
+    "systemTheme": "Системная",
+    "lightTheme": "Светлая",
+    "darkTheme": "Тёмная",
+
+    "languageSettings": "Язык",
+    "russianLanguage": "Русский язык",
+    "englishLanguage": "English",
+    "koreanLanguage": "한국어",
+
+    "taskCount": "{count, plural, =0{Нет задач} =1{{count} задача} few{{count} задачи} many{{count} задач} other{{count} задачи}}",
+    "@taskCount": {
+        "placeholders": {
+            "count": {}
+        }
+    },
+
+    "deadline": "{date}",
+    "@deadline": {
+        "placeholders": {
+            "date": {
+                "type": "DateTime",
+                "format": "yMMMd"
+            }
+        }
+    },
+
+    "setCompleted": "Завершено",
+    "setUncompleted": "Не завершено",
+    "edit": "Редактировать",
+    "remove": "Удалить",
+    "next": "Далее",
+    "previous": "Назад"
+}
