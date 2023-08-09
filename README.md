@@ -11,7 +11,7 @@
 ## Introduction
 
 
-LABQUEST is an application designed to track laboratory work and educational tasks. It provides an organized and efficient way to manage courses, tasks, and progress. LABQUEST offers features such as task management, progress tracking, grading, and statistical analysis. Whether you are a student or an instructor, LABQUEST can help you stay organized and excel in your educational journey.
+LABQUEST is an application designed to track laboratory work and educational tasks. It provides an organized and efficient way to manage courses, tasks, and progress. LABQUEST offers features such as task management, progress tracking, grading, and statistical analysis. Whether you are a student, LABQUEST can help you stay organized and excel in your educational journey.
 
 
 
