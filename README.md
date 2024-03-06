@@ -2,86 +2,79 @@
 
 
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
+## Оглавление
+1. [Введение](#introduction)
+2. [Особенности](#features)
 
 
 
-## Introduction
+## Введение
 
 
-LABQUEST is an application designed to track laboratory work and educational tasks. It provides an organized and efficient way to manage courses, tasks, and progress. LABQUEST offers features such as task management, progress tracking, grading, and statistical analysis. Whether you are a student, LABQUEST can help you stay organized and excel in your educational journey.
+LABQUEST - это приложение, предназначенное для отслеживания лабораторных работ и учебных заданий. Оно обеспечивает организованный и эффективный способ управления курсами, заданиями и прогрессом. LABQUEST предлагает такие функции, как управление заданиями, отслеживание прогресса, выставление оценок и статистический анализ. Если вы студент, LABQUEST поможет вам оставаться организованным и добиваться успехов в учебе.
 
 
 
-| <img width="150" alt="courses" src="https://i.postimg.cc/CLCXmXVC/courses.png"/> | <img width="150" alt="tasks" src="https://i.postimg.cc/SxNTVKdq/tasks.png"/> | <img width="150" alt="edit-course" src="https://i.postimg.cc/g07TxPvp/edit-courses.png"/> | <img width="150" alt="edit-task" src="https://i.postimg.cc/NfxC1X1p/edit-task.png"/> | <img width="150" alt="profile" src="https://i.postimg.cc/zDKcG63m/profile.png"/> |
+| <img width="150" alt="курсы" src="https://i.postimg.cc/CLCXmXVC/courses.png"/> | <img width="150" alt="задания" src="https://i.postimg.cc/SxNTVKdq/tasks.png"/> | <img width="150" alt="редактировать курс" src="https://i.postimg.cc/g07TxPvp/edit-courses.png"/> | <img width="150" alt="редактировать задание" src="https://i.postimg.cc/NfxC1X1p/edit-task.png"/> | <img width="150" alt="профиль" src="https://i.postimg.cc/zDKcG63m/profile.png"/> |
 |---|---|---|---|---|
 
 
 
-## Features
+## Особенности
 
 
-LABQUEST offers a user-friendly interface and a range of features to enhance your learning experience. Here's what you can expect as a LABQUEST user:
-
-
-
-- ### Courses
-
-
-    LABQUEST allows you to create courses for various subjects or topics. Each course serves as a container for related tasks and assignments.
+LABQUEST предлагает удобный интерфейс и ряд функций для повышения эффективности обучения. Вот на что вы можете рассчитывать как пользователь LABQUEST:
 
 
 
-- ### Tasks
+- ### Курсы
 
 
-    Within a course, you can add tasks such as laboratory experiments, exercises, or research projects. Tasks can be assigned deadlines for completion.
-
-
-
-- ### Progress Tracking
-
-
-    LABQUEST provides visual indicators to track your progress in completing tasks. You can easily view completed and pending assignments, helping you stay on top of your workload.
+    LABQUEST позволяет создавать курсы по различным предметам или темам. Каждый курс служит контейнером для связанных с ним задач и заданий.
 
 
 
-- ### Grading System
+- ### Задания
 
 
-    LABQUEST offers a built-in grading system. You can assign marks or scores to completed tasks and provide feedback to students.
-
-
-
-- ### Statistics
-
-
-    LABQUEST provides statistical analysis to help you evaluate your performance. You can view reports on completed and upcoming tasks, track your progress over time, and identify areas for improvement.
+    В рамках курса можно добавлять задания, такие как лабораторные работы или исследовательские проекты. Заданиям могут быть назначены сроки выполнения.
 
 
 
-- ### Themes
+- ### Отслеживание прогресса
 
 
-    LABQUEST supports customizable themes, allowing users to personalize the interface based on their preference.
+    LABQUEST предоставляет визуальные индикаторы для отслеживания вашего прогресса в выполнении заданий. Вы можете легко просмотреть выполненные и ожидающие выполнения задания, что поможет вам оставаться на вершине своей рабочей нагрузки.
 
 
 
-    | <img width="150" alt="courses" src="https://i.postimg.cc/XvqPNvBx/courses-dark.png"/> | <img width="150" alt="tasks" src="https://i.postimg.cc/fbVHng1r/tasks-dark.png"/> | <img width="150" alt="profile" src="https://i.postimg.cc/7Y4QG9T5/profile-dark.png"/> |
+- ### Статистика
+
+
+    LABQUEST предоставляет статистический анализ, который поможет вам оценить свою работу. Вы можете просматривать отчеты о выполненных и предстоящих заданиях, отслеживать свой прогресс с течением времени и выявлять области для улучшения.
+
+
+
+- ### Темы
+
+
+    LABQUEST поддерживает настраиваемые темы, позволяя пользователям персонализировать интерфейс в соответствии со своими предпочтениями.
+
+
+
+    | <img width="150" alt="курсы" src="https://i.postimg.cc/XvqPNvBx/courses-dark.png"/> | <img width="150" alt="задания" src="https://i.postimg.cc/fbVHng1r/tasks-dark.png"/> | <img width="150" alt="профиль" src="https://i.postimg.cc/7Y4QG9T5/profile-dark.png"/> | 
     |---|---|---|
 
 
 
-- ### Localization
+- ### Локализация
 
 
-    LABQUEST supports multiple languages and provides localization options to ensure the application is accessible to users worldwide.
+    LABQUEST поддерживает множество языков и предоставляет возможности локализации, чтобы обеспечить доступность приложения для пользователей по всему миру.
 
 
 
 ---
 
 
-If you think this app is good, or if this project helps you, give this project a Star. The project will continue to be updated and maintained afterwards.
+Если вы считаете это приложение хорошим, или если этот проект поможет вам, дайте этому проекту звезду. Проект будет продолжать обновляться и поддерживаться в дальнейшем.
